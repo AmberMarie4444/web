@@ -3972,11 +3972,11 @@ __metadata:
   linkType: hard
 
 "@hono/node-server@npm:^1.11.1":
-  version: 1.16.0
-  resolution: "@hono/node-server@npm:1.16.0"
+  version: 1.19.10
+  resolution: "@hono/node-server@npm:1.19.10"
   peerDependencies:
     hono: ^4
-  checksum: c169475a336591178c7841d707c11e88982a662e83205a6e521b1a720c1e69030b214c4588a5e67a968cc2dd4efcede164e3ad92dc5eee7ccb5bd2f469023275
+  checksum: 412cda5aae8996b10caffbe5b5d670c003be019ba5b397f164e3e8c91a05cdcb45e4b165e84ded698477f99d212a909d944adefec0a748a69ad5e8e1b17c32fa
   languageName: node
   linkType: hard
 
