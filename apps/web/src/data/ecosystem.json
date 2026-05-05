@@ -4766,5 +4766,21 @@
     "imageUrl": "/images/partners/allbridge-core-logo.png",
     "category": "infra",
     "subcategory": "bridge"
+  },
+  {
+  "name": "Melvin",
+  "url": "https://melvin.wtf",
+  "description": "Melvin's ERC-8004 based agents scans prediction markets 24/7 and automatically hedges your positions so you profit regardless of outcome.",
+  "imageUrl": "/images/partners/melvin25.png",
+  "category": "ai",
+  "subcategory": "ai"
+  },
+  {
+    "name": "City Protocol",
+    "description": "City Protocol is the first attention and capital infrastructure for onchain assets. The protocol connects users and projects through reward distribution, defining the next chapter of Neofinance.",
+    "url": "https://cityprotocol.co/",
+    "imageUrl": "/images/partners/city_protocol.png",
+    "category": "consumer",
+    "subcategory": "real world"
   }
 ]
